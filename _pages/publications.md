@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publications <a href= 'https://scholar.google.com.vn/citations?user=F9mgq3sAAAAJ&hl=en'>(Google Scholar Profile)</a>"
+title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
