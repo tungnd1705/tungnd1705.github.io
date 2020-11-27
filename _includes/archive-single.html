@@ -35,7 +35,11 @@
     {{ post.venue }}
     <br>
     <!--Paper link + Source code + Blog post + Slide + Talk-->
-    {% if post.url %}[<a href="{{post.url}}">paper</a>]{% endif %} {% if post.code %}[<a href="{{post.code}}">code</a>]{% endif %} {% if post.blog %}[<a href="{{post.blog}}">blog</a>]{% endif %} {% if post.slide %}[<a href="{{post.slide}}">slide</a>]{% endif %} {% if post.talk %}[<a href="{{post.talk}}">talk</a>]{% endif %}
+    {% if post.paper %}[<a href="{{post.paper}}">paper</a>]{% endif %}
+    {% if post.code %}[<a href="{{post.code}}">code</a>]{% endif %}
+    {% if post.blog %}[<a href="{{post.blog}}">blog</a>]{% endif %}
+    {% if post.slide %}[<a href="{{post.slide}}">slide</a>]{% endif %}
+    {% if post.talk %}[<a href="{{post.talk}}">talk</a>]{% endif %}
 
   </article>
 </div>
