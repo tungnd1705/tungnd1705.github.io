@@ -22,6 +22,7 @@ redirect_from:
 <!-- Research experience
 ====== -->
 <h1 style="color:blue">Research experience</h1>
+<hr>
 
 **AI Resident | 2019 - Present**   
 *VinAI Research, Vietnam - website: [www.vinai.io](https://www.vinai.io/)*
@@ -36,6 +37,7 @@ redirect_from:
 <!-- Honors and Awards
 ====== -->
 <h1 style="color:blue">Honors and Awards</h1>
+<hr>
 
 **Best Thesis Award | 2020**   
 *School of Information and Communication Technology, HUST*   
@@ -56,6 +58,7 @@ Each semester top 5% of students with greatest academic performance are awarded.
 <!-- Publications
 ====== -->
 <h1 style="color:blue">Publications</h1>
+<hr>
 
 **Predictive Coding for Locally-Linear Control | 2020**   
 *Rui Shu\*, **Tung Nguyen\***, Yinlam Chow, Tuan Pham, Khoat Than, Mohammad Ghavamzadeh, Stefano Ermon, Hung H. Bui*   
@@ -68,6 +71,7 @@ IEEE International Conference on Big Data (Big Data), 2019.
 <!-- Preprints
 ====== -->
 <h1 style="color:blue">Preprints</h1>
+<hr>
 
 **Non-Markovian Predictive Coding for Planning in Latent Space | 2020**   
 ***Tung Nguyen\***, Rui Shu\*, Tuan Pham\*, Stefano Ermon, Hung H. Bui*
@@ -75,6 +79,7 @@ IEEE International Conference on Big Data (Big Data), 2019.
 <!-- Projects
 ====== -->
 <h1 style="color:blue">Projects</h1>
+<hr>
 
 **Representation Learning for Locally-Linear Control | 2020**   
   * Get familiar with the literature of Learning Controllable Embedding – an approach to the problem of control from high-dimensional observations
@@ -84,6 +89,7 @@ IEEE International Conference on Big Data (Big Data), 2019.
 <!-- Other Activities
 ====== -->
 <h1 style="color:blue">Other Activities</h1>
+<hr>
 
 **Technical Talk | 2020**   
 *AI Day 2020: Rising to the Challenges - website: [ai2020.vinai.io](https://ai2020.vinai.io)*
@@ -104,6 +110,7 @@ IEEE International Conference on Big Data (Big Data), 2019.
 <!-- Technical Skills
 ====== -->
 <h1 style="color:blue">Technical Skills</h1>
+<hr>
 
   * **Programming Languages:** Python, C/C++, Java, JavaScript
   * **Libraries:** Pytorch, Tensorflow, Numpy, Matplotlib
@@ -112,6 +119,7 @@ IEEE International Conference on Big Data (Big Data), 2019.
 <!-- Certificates
 ====== -->
 <h1 style="color:blue">Certificates</h1>
+<hr>
 
 **TOEFL:** 107 Overall, 29 Reading, 28 Listening, 27 Writing, 23 Speaking   
 **Deep Learning Specialization by deeplearning.ai**
