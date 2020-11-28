@@ -9,16 +9,20 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
+<!-- Education
+====== -->
+<h1 style="color:blue">Education</h1>
+
 **Hanoi University of Science and Technology (HUST) | 2015-2020**   
 *Bachelor in Information Systems*
   * Thesis: Predictive Coding for Locally-Linear Control
   * Advisor: Assoc. Prof. Khoat Than
   * GPA: 3.65/4.00, graduated with Excellent Degree
 
-Research experience
-======
+<!-- Research experience
+====== -->
+<h1 style="color:blue">Research experience</h1>
+
 **AI Resident | 2019 - Present**   
 *VinAI Research, Vietnam - website: [www.vinai.io](https://www.vinai.io/)*
   * Supervisor: Dr. Hung Bui - Director of VinAI Research
@@ -29,8 +33,10 @@ Research experience
   * Supervisor: Assoc. Prof. Khoat Than - Director of DSLab
   * Research Topic: Continual Learning for Statistical Models
   
-Honors and Awards
-======
+<!-- Honors and Awards
+====== -->
+<h1 style="color:blue">Honors and Awards</h1>
+
 **Best Thesis Award | 2020**   
 *School of Information and Communication Technology, HUST*   
 The best thesis was selected among over 400 graduation theses in the Fall Semester, 2020.
@@ -47,8 +53,10 @@ I joined Prof. Ryutaro Ichise’s lab and worked closely with Nicolas Bougie, hi
 *School of Information and Communication Technology, HUST*   
 Each semester top 5% of students with greatest academic performance are awarded.
 
-Publications
-======
+<!-- Publications
+====== -->
+<h1 style="color:blue">Publications</h1>
+
 **Predictive Coding for Locally-Linear Control | 2020**   
 *Rui Shu\*, **Tung Nguyen\***, Yinlam Chow, Tuan Pham, Khoat Than, Mohammad Ghavamzadeh, Stefano Ermon, Hung H. Bui*   
 International Conference on Machine Learning (ICML), 2020.
@@ -57,20 +65,26 @@ International Conference on Machine Learning (ICML), 2020.
 *Son Nguyen, **Tung Nguyen**, Linh Ngo, Khoat Than*   
 IEEE International Conference on Big Data (Big Data), 2019.
   
-Preprints
-======
+<!-- Preprints
+====== -->
+<h1 style="color:blue">Preprints</h1>
+
 **Non-Markovian Predictive Coding for Planning in Latent Space | 2020**   
 ***Tung Nguyen\***, Rui Shu\*, Tuan Pham\*, Stefano Ermon, Hung H. Bui*
   
-Projects
-======
+<!-- Projects
+====== -->
+<h1 style="color:blue">Projects</h1>
+
 **Representation Learning for Locally-Linear Control | 2020**   
   * Get familiar with the literature of Learning Controllable Embedding – an approach to the problem of control from high-dimensional observations
   * Replicate the results of Prediction, Consistency, Curvature (PCC) – the contemporary state-of-the-art method
   * Open the source code: [github.com/VinAIResearch/PCC-pytorch](https://github.com/VinAIResearch/PCC-pytorch)
   
-Other Activities
-======
+<!-- Other Activities
+====== -->
+<h1 style="color:blue">Other Activities</h1>
+
 **Technical Talk | 2020**   
 *AI Day 2020: Rising to the Challenges - website: [ai2020.vinai.io](https://ai2020.vinai.io)*
   * Present the work Predictive Coding for Locally-Linear Control at AI Day 2020 - the event which welcomed technical talks from top researchers around the world and attracted over 20,000 views online.
@@ -87,14 +101,18 @@ Other Activities
   * Run a seminar on fundamental machine learning models such as linear regressions, k-nearest neighbors, support vector machines and neural networks for new students
   * Help new students get hands-on experience with Tensorflow – a deep learning framework
 
-Technical Skills
-======
+<!-- Technical Skills
+====== -->
+<h1 style="color:blue">Technical Skills</h1>
+
   * **Programming Languages:** Python, C/C++, Java, JavaScript
   * **Libraries:** Pytorch, Tensorflow, Numpy, Matplotlib
   * **Developer Tools:** Git
 
-Certificates
-======
+<!-- Certificates
+====== -->
+<h1 style="color:blue">Certificates</h1>
+
 **TOEFL:** 107 Overall, 29 Reading, 28 Listening, 27 Writing, 23 Speaking   
 **Deep Learning Specialization by deeplearning.ai**
   * [Neural Networks and Deep Learning](https://www.coursera.org/account/accomplishments/verify/6BVE5M4WM989)
