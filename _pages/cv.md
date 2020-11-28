@@ -11,7 +11,7 @@ redirect_from:
 
 <!-- Education
 ====== -->
-<h2 style="color:#00BFFF">Education</h2>
+<h2 style="color:#87CEEB">Education</h2>
 
 **Hanoi University of Science and Technology (HUST) | 2015-2020**   
 *Bachelor in Information Systems*
@@ -21,7 +21,7 @@ redirect_from:
 
 <!-- Research experience
 ====== -->
-<h2 style="color:#00BFFF">Research experience</h2>
+<h2 style="color:#87CEEB">Research experience</h2>
 <hr>
 
 **AI Resident | 2019 - Present**   
@@ -36,7 +36,7 @@ redirect_from:
   
 <!-- Honors and Awards
 ====== -->
-<h2 style="color:#00BFFF">Honors and Awards</h2>
+<h2 style="color:#87CEEB">Honors and Awards</h2>
 <hr>
 
 **Best Thesis Award | 2020**   
@@ -57,7 +57,7 @@ Each semester top 5% of students with greatest academic performance are awarded.
 
 <!-- Publications
 ====== -->
-<h2 style="color:#00BFFF">Publications</h2>
+<h2 style="color:#87CEEB">Publications</h2>
 <hr>
 
 **Predictive Coding for Locally-Linear Control | 2020**   
@@ -70,7 +70,7 @@ IEEE International Conference on Big Data (Big Data), 2019.
   
 <!-- Preprints
 ====== -->
-<h2 style="color:#00BFFF">Preprints</h2>
+<h2 style="color:#87CEEB">Preprints</h2>
 <hr>
 
 **Non-Markovian Predictive Coding for Planning in Latent Space | 2020**   
@@ -78,7 +78,7 @@ IEEE International Conference on Big Data (Big Data), 2019.
   
 <!-- Projects
 ====== -->
-<h2 style="color:#00BFFF">Projects</h2>
+<h2 style="color:#87CEEB">Projects</h2>
 <hr>
 
 **Representation Learning for Locally-Linear Control | 2020**   
@@ -88,7 +88,7 @@ IEEE International Conference on Big Data (Big Data), 2019.
   
 <!-- Other Activities
 ====== -->
-<h2 style="color:#00BFFF">Other Activities</h2>
+<h2 style="color:#87CEEB">Other Activities</h2>
 <hr>
 
 **Technical Talk | 2020**   
@@ -109,7 +109,7 @@ IEEE International Conference on Big Data (Big Data), 2019.
 
 <!-- Technical Skills
 ====== -->
-<h2 style="color:#00BFFF">Technical Skills</h2>
+<h2 style="color:#87CEEB">Technical Skills</h2>
 <hr>
 
   * **Programming Languages:** Python, C/C++, Java, JavaScript
@@ -118,7 +118,7 @@ IEEE International Conference on Big Data (Big Data), 2019.
 
 <!-- Certificates
 ====== -->
-<h2 style="color:#00BFFF">Certificates</h2>
+<h2 style="color:#87CEEB">Certificates</h2>
 <hr>
 
 **TOEFL:** 107 Overall, 29 Reading, 28 Listening, 27 Writing, 23 Speaking   
