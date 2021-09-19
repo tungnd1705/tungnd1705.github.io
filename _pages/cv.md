@@ -64,9 +64,9 @@ Each semester top 5% of students with greatest academic performance are awarded.
 <h2 style="color:#87CEEB">Publications</h2>
 <hr>
 
-**Temporal Predictive Coding for Model-based Planning in Latent Space | 2020**   
+**Temporal Predictive Coding for Model-based Planning in Latent Space | 2021**   
 *__Tung Nguyen\*__, Rui Shu\*, Tuan Pham\*, Hung H. Bui, Stefano Ermon*   
-International Conference on Machine Learning (ICML), 2020.
+International Conference on Machine Learning (ICML), 2021.
 
 **Predictive Coding for Locally-Linear Control | 2020**   
 *Rui Shu\*, **Tung Nguyen\***, Yinlam Chow, Tuan Pham, Khoat Than, Mohammad Ghavamzadeh, Stefano Ermon, Hung H. Bui*   
