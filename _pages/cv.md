@@ -13,10 +13,14 @@ redirect_from:
 ====== -->
 <h2 style="color:#87CEEB">Education</h2>
 
+**University of California, Los Angeles (UCLA) | 2021-Present**   
+*Ph.D. in Computer Science
+  * Advisor: Aditya Grover
+
 **Hanoi University of Science and Technology (HUST) | 2015-2020**   
 *Bachelor in Information Systems*
   * Thesis: Predictive Coding for Locally-Linear Control
-  * Advisor: Assoc. Prof. Khoat Than
+  * Advisor: Khoat Than
   * GPA: 3.65/4.00, graduated with Excellent Degree
 
 <!-- Research experience
@@ -24,7 +28,7 @@ redirect_from:
 <h2 style="color:#87CEEB">Research experience</h2>
 <hr>
 
-**AI Resident | 2019 - Present**   
+**AI Resident | 2019 - 2021**   
 *VinAI Research, Vietnam - website: [www.vinai.io](https://www.vinai.io/)*
   * Supervisor: Dr. Hung Bui - Director of VinAI Research
   * Research Topic: Representation Learning for Planning in Latent Space
@@ -60,6 +64,10 @@ Each semester top 5% of students with greatest academic performance are awarded.
 <h2 style="color:#87CEEB">Publications</h2>
 <hr>
 
+**Temporal Predictive Coding for Model-based Planning in Latent Space | 2021**   
+***Tung Nguyen\***, Rui Shu\*, Tuan Pham\*, Hung H. Bui, Stefano Ermon*
+International Conference on Machine Learning (ICML), 2021.
+
 **Predictive Coding for Locally-Linear Control | 2020**   
 *Rui Shu\*, **Tung Nguyen\***, Yinlam Chow, Tuan Pham, Khoat Than, Mohammad Ghavamzadeh, Stefano Ermon, Hung H. Bui*   
 International Conference on Machine Learning (ICML), 2020.
@@ -73,8 +81,6 @@ IEEE International Conference on Big Data (Big Data), 2019.
 <h2 style="color:#87CEEB">Preprints</h2>
 <hr>
 
-**Non-Markovian Predictive Coding for Planning in Latent Space | 2020**   
-***Tung Nguyen\***, Rui Shu\*, Tuan Pham\*, Stefano Ermon, Hung H. Bui*
   
 <!-- Projects
 ====== -->
@@ -121,7 +127,14 @@ IEEE International Conference on Big Data (Big Data), 2019.
 <h2 style="color:#87CEEB">Certificates</h2>
 <hr>
 
-**TOEFL:** 107 Overall, 29 Reading, 28 Listening, 27 Writing, 23 Speaking   
+**TOEFL:** 107 Overall, 29 Reading, 28 Listening, 27 Writing, 23 Speaking
+
+**Reinforcement Learning Specialization by University of Alberta**
+* [Fundamentals of Reinforcement Learning](https://www.coursera.org/account/accomplishments/certificate/ALXELAWTGVZX)
+* [Sample-based Learning Methods](https://www.coursera.org/account/accomplishments/certificate/Y85JLQBRWVPT)
+* [Prediction and Control with Function Approximation](https://www.coursera.org/account/accomplishments/certificate/BVBPXLCNSEM8)
+* [A Complete Reinforcement Learning System (Capstone)](https://www.coursera.org/account/accomplishments/certificate/FK5A3VHY2AWP)
+
 **Deep Learning Specialization by deeplearning.ai**
   * [Neural Networks and Deep Learning](https://www.coursera.org/account/accomplishments/verify/6BVE5M4WM989)
   * [Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization](https://www.coursera.org/account/accomplishments/verify/VZ9QAABGA7N8)
