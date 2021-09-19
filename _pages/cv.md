@@ -14,7 +14,7 @@ redirect_from:
 <h2 style="color:#87CEEB">Education</h2>
 
 **University of California, Los Angeles (UCLA) | 2021-Present**   
-*Ph.D. in Computer Science
+*Ph.D. in Computer Science*
   * Advisor: Aditya Grover
 
 **Hanoi University of Science and Technology (HUST) | 2015-2020**   
@@ -65,7 +65,7 @@ Each semester top 5% of students with greatest academic performance are awarded.
 <hr>
 
 **Temporal Predictive Coding for Model-based Planning in Latent Space | 2021**   
-***Tung Nguyen\***, Rui Shu\*, Tuan Pham\*, Hung H. Bui, Stefano Ermon*
+* **Tung Nguyen\***, Rui Shu\*, Tuan Pham\*, Hung H. Bui, Stefano Ermon*
 International Conference on Machine Learning (ICML), 2021.
 
 **Predictive Coding for Locally-Linear Control | 2020**   
