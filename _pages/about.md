@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year Ph.D. student in Computer Science at UCLA, where I will be working with Professor Aditya Grover. I also spent two wonderful years at VinAI Research as an AI Resident, where I was fortune enough to work under the supervision of Dr. Hung Bui and collaborate with amazing colleagues Rui Shu and Tuan Pham.
+I am a PhD student in Computer Science at UCLA, advised by Aditya Grover. Before my PhD, I spent two wonderful years at VinAI Research as an AI Resident, where I was fortunate enough to work under the supervision of Dr. Hung Bui and collaborate with amazing colleagues Rui Shu and Tuan Pham.
 
-My research goal is to develop intelligent agents that are able to perceive, reason and make decisions from high-dimensional and unstructured observations. To achieve this, I have been focusing on unsupervised representation learning, reinforcement learning and deep generative models. I am also interested in applying this research in real-world robots.
+My research goal is to develop intelligent agents that can perceive, reason, and make decisions in highly complex environments. To achieve this, I have been working on the intersection of decision making under uncertainty and sequence modeling. I am also interested in grounding my research in applications to climate change study.
 
-Besides research, I love playing soccer in my free time. And I love animals.
+<!-- Aside from research, I love playing soccer in my free time. And I love animals. -->
