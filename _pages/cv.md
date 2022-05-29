@@ -30,12 +30,12 @@ redirect_from:
 
 **AI Resident | 2019 - 2021**   
 *VinAI Research, Vietnam - website: [www.vinai.io](https://www.vinai.io/)*
-  * Supervisor: Dr. Hung Bui - Director of VinAI Research
+  * Supervisor: Hung Bui
   * Research Topic: Representation Learning for Planning in Latent Space
 
 **Research Student | 2018 - 2019**   
 *Data Science Lab (DSLab), HUST - website: [ds.soict.hust.edu.vn/](http://ds.soict.hust.edu.vn/)*
-  * Supervisor: Assoc. Prof. Khoat Than - Director of DSLab
+  * Supervisor: Khoat Than
   * Research Topic: Continual Learning for Statistical Models
 
 <!-- Publications
