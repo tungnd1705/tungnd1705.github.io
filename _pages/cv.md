@@ -28,6 +28,11 @@ redirect_from:
 <h2 style="color:#87CEEB">Research experience</h2>
 <hr>
 
+**Research Intern | 2022**   
+*Microsoft Research, Autonomous Systems and Robotics Group*
+  * Supervisor: Jayesh Gupta, Ashish Kapoor
+  * Research Topic: Pretraining for Climate Modeling
+
 **AI Resident | 2019 - 2021**   
 *VinAI Research, Vietnam - website: [www.vinai.io](https://www.vinai.io/)*
   * Supervisor: Hung Bui
