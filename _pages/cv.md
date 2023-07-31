@@ -31,7 +31,7 @@ redirect_from:
 **Research Intern | 2022**   
 *Microsoft Research, Autonomous Systems and Robotics Group*
   * Supervisor: Jayesh Gupta, Ashish Kapoor
-  * Research Topic: Pretraining for Climate Modeling
+  * Research Topic: General-purpose Pretraining for Climate Modeling
 
 **AI Resident | 2019 - 2021**   
 *VinAI Research, Vietnam - website: [www.vinai.io](https://www.vinai.io/)*
@@ -41,12 +41,17 @@ redirect_from:
 **Research Student | 2018 - 2019**   
 *Data Science Lab (DSLab), HUST - website: [ds.soict.hust.edu.vn/](http://ds.soict.hust.edu.vn/)*
   * Supervisor: Khoat Than
-  * Research Topic: Continual Learning for Statistical Models
+  * Research Topic: Life-long Learning for Statistical Models
 
 <!-- Publications
 ====== -->
 <h2 style="color:#87CEEB">Publications</h2>
 <hr>
+
+**ClimaX: A Foundation Model for Weather and Climate**   
+*__Tung Nguyen__, Johannes Brandstetter, Ashish Kapoor, Jayesh K. Gupta\*, Aditya Grover\**   
+International Conference on Machine Learning (ICML), 2023.   
+<span style="color:#AA4A44">Best Paper at ICML Workshop on Synergy of Scientific and Machine Learning Modeling, Spotlight Oral at ICLR Workshop on AI and Climate Change</span>.
 
 **Transformer Neural Processes: Uncertainty-Aware Meta Learning Via Sequence Modeling**   
 *__Tung Nguyen__, Aditya Grover*   
@@ -69,7 +74,13 @@ IEEE International Conference on Big Data (Big Data), 2019.
 <h2 style="color:#87CEEB">Under Review</h2>
 <hr>
 
-**ConserWeightive BC: Generalizing Supervised Learning for Offline Reinforcement Learning | 2022**   
+**Synthetic Pretraining for Few-shot Black-Box Optimization | 2023**   
+*__Tung Nguyen__, Sudhanshu Agrawal, Aditya Grover*
+
+**ClimateLearn: Benchmarking Machine Learning for Weather and Climate Modeling | 2023**   
+*__Tung Nguyen__, Jason Jewik, Hritik Bansal, Prakhar Sharma, Aditya Grover*
+
+**Reliable Conditioning of Behavioral Cloning for Offline Reinforcement Learning | 2022**   
 *__Tung Nguyen__, Qinqing Zheng, Aditya Grover*
   
 <!-- Projects
@@ -87,11 +98,15 @@ IEEE International Conference on Big Data (Big Data), 2019.
 <h2 style="color:#87CEEB">Honors and Awards</h2>
 <hr>
 
+**Amazon Student Doctoral Fellowship | 2022-2023**   
+*Department of Computer Science, UCLA*   
+Each year 12 doctoral students who work in the field of AI are selected as Amazon fellows. Amazon fellows receive full funding for one academic year to pursue independent research projects.
+
 **Best Thesis Award | 2020**   
 *School of Information and Communication Technology, HUST*   
 The best thesis was selected among over 400 graduation theses in the Fall Semester, 2020.
 
-**Sakura Science Plan Scholarship | 2019**   
+<!-- **Sakura Science Plan Scholarship | 2019**   
 *National Institute of Informatics (NII), Japan*   
 I joined Prof. Ryutaro Ichise’s lab and worked closely with Nicolas Bougie, his PhD student, to get hands-on research experience in deep reinforcement learning.
 
@@ -101,12 +116,19 @@ I joined Prof. Ryutaro Ichise’s lab and worked closely with Nicolas Bougie, hi
 
 **The Excellence Scholarship - Level A | 2016 & 2017**   
 *School of Information and Communication Technology, HUST*   
-Each semester top 5% of students with greatest academic performance are awarded.
+Each semester top 5% of students with greatest academic performance are awarded. -->
   
 <!-- Other Activities
 ====== -->
-<h2 style="color:#87CEEB">Other Activities</h2>
+<h2 style="color:#87CEEB">Academic Services</h2>
 <hr>
+
+**Reviewer**   
+*ICML (2021, 2022, 2023), Neurips (2021, 2022), ICLR (2022)*
+
+**Teaching Assistant**   
+*CS161 Fundamentals of Artificial Intelligence – UCLA*   
+  * Hold discussion sections and office hours
 
 **Technical Talk | 2020**   
 *AI Day 2020: Rising to the Challenges - website: [ai2020.vinai.io](https://ai2020.vinai.io)*

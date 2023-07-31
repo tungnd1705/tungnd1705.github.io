@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in Computer Science at UCLA, advised by Aditya Grover. Before my PhD, I spent two wonderful years at VinAI Research as an AI Resident, where I was fortunate enough to work under the supervision of Dr. Hung Bui and collaborate with amazing colleagues Rui Shu and Tuan Pham.
+I am a 3rd year PhD student in Computer Science at UCLA, advised by [Aditya Grover](https://aditya-grover.github.io/). Before my PhD, I spent two wonderful years at VinAI Research as an AI Resident, where I was fortunate enough to work under the supervision of [Dr. Hung Bui](https://sites.google.com/site/buihhung/) and collaborate with amazing colleagues [Rui Shu](https://ruishu.io/) and [Tuan Pham](https://scholar.google.com/citations?user=CmbSBmQAAAAJ&hl=en).
 
-My research goal is to develop intelligent agents that can perceive, reason, and make decisions in highly complex environments. To achieve this, I have been working on the intersection of decision making under uncertainty and sequence modeling. I am also interested in grounding my research in applications to climate change study.
+My research interest lies in the intersection of Decision making, Sequence modeling, Generative Modeling, and their applications to Tackling Climate Change. Aside from research, I am a huge fan of football (soccer) and Manchester United.
 
 <!-- Aside from research, I love playing soccer in my free time. And I love animals. -->
