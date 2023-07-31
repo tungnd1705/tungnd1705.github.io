@@ -2,7 +2,7 @@
 title: "ClimaX: A foundation model for weather and climate"
 collection: publications
 permalink: /publications/ClimaX
-venue: "The 40th International Conference on Machine Learning (ICML), 2023."
+venue: "The 40th International Conference on Machine Learning (ICML), 2023.   <span style="color:#AA4A44">Best Paper at ICML Workshop on Synergy of Scientific and Machine Learning Modeling, Spotlight Oral at ICLR Workshop on AI and Climate Change</span>."
 authors: '<b>Tung Nguyen</b>, Johannes Brandstetter, Ashish Kapoor, Jayesh K. Gupta*, Aditya Grover*'
 paper: "https://arxiv.org/abs/2301.10343"
 code: "https://github.com/microsoft/ClimaX"
