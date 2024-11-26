@@ -2,7 +2,7 @@
 title: "Temporal Predictive Coding for Model-based Planning in Latent Space"
 collection: publications
 permalink: /publications/TPC
-venue: "The 38th International Conference on Machine Learning (ICML), 2021."
+venue: "The 38th International Conference on Machine Learning (ICML 2021)"
 authors: '<b>Tung Nguyen*</b>, Rui Shu*, Tuan Pham*, Hung Bui, Stefano Ermon'
 paper: "http://proceedings.mlr.press/v139/nguyen21h/nguyen21h.pdf"
 code: "https://github.com/VinAIResearch/TPC-tensorflow"
