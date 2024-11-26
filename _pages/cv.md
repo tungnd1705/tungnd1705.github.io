@@ -54,7 +54,7 @@ redirect_from:
 <h2 style="color:#87CEEB">Publications</h2>
 <hr>
 
-**Probing the Decision Boundaries of In-context Learning in LLMs**
+**Probing the Decision Boundaries of In-context Learning in LLMs**  
 *Siyan Zhao, __Tung Nguyen__, Aditya Grover*  
 Conference on Neural Information Processing Systems (NeurIPS 2024)
 
